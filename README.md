@@ -11,7 +11,7 @@
 | Debasree Sen | @ | Add info here |
 | Pooja Garlapati | @pogarla3 | Set up Codebase, Image Preprocessing, Built CNN backbone
 | Cindy Su |  @ |  Add info here | 
-| Benine TAYEB | @ | Add info here |
+| Benine TAYEB | @ beninet56987 | Add info here |
 
 
 ---
