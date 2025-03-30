@@ -8,7 +8,7 @@
 | ----- | ----- | ----- |
 | Samantha Nadler | @samanthanadler  | Built CNN model, performed data augmentation, created image generators |
 | Keerthana Talla | @ |  Add info here   |
-| Debasree Sen | @ | Add info here |
+| Debasree Sen | @wallaweebs | Tested on CNN model |
 | Pooja Garlapati | @pogarla3 | Set up Codebase, Image Preprocessing, Built CNN backbone
 | Cindy Su |  @ |  Add info here | 
 | Benine TAYEB | @ beninet56987 | Add info here |
@@ -19,9 +19,9 @@
 ## **🎯 Project Highlights**
 
 * Built a RCNN model using Keras and Pytorch to solve \[Equitable AI for Dermatology\]
-* Achieved an F1 score of \[insert score\] and a ranking of \[insert ranking out of participating teams\] on the final Kaggle Leaderboard
-* Used \[explainability tool\] to interpret model decisions
-* Implemented \[data preprocessing method\] to optimize results within compute constraints
+* Achieved an F1 score of 0.02336 and a ranking of 72nd on the final Kaggle Leaderboard
+* Used prediction probabilities to interpret model decisions
+* Implemented rescaling of images and data augmentation using ImageDataGenerator to optimize results within compute constraints
 
 🔗 [Equitable AI for Dermatology | Kaggle Competition Page](https://www.kaggle.com/competitions/bttai-ajl-2025/overview)
 🔗 [WiDS Datathon 2025 | Kaggle Competition Page](https://www.kaggle.com/competitions/widsdatathon2025/overview)
